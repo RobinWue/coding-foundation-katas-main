@@ -1,11 +1,11 @@
 # Kata: Filter API Data
 
-Implement the `filterApiData` function in `filter-api-data.js` with the following requirements in mind.
+Implementiere die Funktion "filterApiData" in "filter-api-data.js" unter Berücksichtigung der folgenden Anforderungen:
 
-- The first parameter `apiData` will be an array that includes objects
-- The objects can have different keys
-- The second parameter `mandatoryKeys` is a array that includes all keys that an object (from the `apiData` array) should have to pass the filter test
-- Return an array with only the objects that include all keys from the `mandatoryKeys` array
+-Der erste Parameter "apiData" ist ein Array, das Objekte enthält.
+-Die Objekte können unterschiedliche Schlüssel haben.
+-Der zweite Parameter "mandatoryKeys" ist ein Array, das alle Schlüssel enthält, die ein Objekt (aus dem "apiData"-Array) haben muss, um den Filtertest zu bestehen.
+-Gib ein Array zurück, das nur die Objekte enthält, die alle Schlüssel aus dem "mandatoryKeys"-Array enthalten.
 
 ## Filter Api Data Examples
 

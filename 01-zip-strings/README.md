@@ -1,10 +1,10 @@
 # JS-KATA: Zip Strings
 
-Implement a `zipStrings` function in `zip-strings.js` with the following requirements in mind.
+Implementiere eine Funktion "zipStrings" in "zip-strings.js" mit den folgenden Anforderungen:
 
-- The `zipStrings` function receives two string parameters
-- The `zipStrings` function should return one string where the characters of both parameters are merged using the zip procedure (Reißverschlussverfahren)
-- Merge the strings as shown in the `Zip Strings Example` code
+Die Funktion "zipStrings" erhält zwei Zeichenketten als Parameter.
+Die Funktion "zipStrings" soll eine Zeichenkette zurückgeben, bei der die Zeichen beider Parameter im Reißverschlussverfahren (Zip-Verfahren) zusammengeführt werden.
+Führe die Zeichenketten wie im Beispielcode "Zip Strings Example" gezeigt zusammen.
 
 ## Zip Strings Example
 
